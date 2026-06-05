@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan Em</h1>
-<h3 align="center">A passionate Embedded Systems & IoT Developer from Vietnam</h3>
+<h3 align="center">A Embedded Systems & IoT Developer from Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
